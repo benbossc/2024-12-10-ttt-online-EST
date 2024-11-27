@@ -233,7 +233,7 @@ for more information.
 </p>
 <ol>
   <li><a href="https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
-  <li><a href="https://carpentries.org/reports/annual-reports/2023AnnualReport.pdf)">The Carpentries 2023 Annual Report</a></li>
+  <li><a href="https://carpentries.org/reports/annual-reports/2023AnnualReport.pdf">The Carpentries 2023 Annual Report</a></li>
 </ol>
 <p>
   Please also read through <em>one</em> episode of one of The Carpentries lessons below
